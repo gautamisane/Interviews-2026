@@ -1,0 +1,21 @@
+deloitte internal
+
+Working of preventDefault and stopPropagation.
+use of doctype and what would happen if i remove doctype
+css types of positions
+Code: button with a number on top right of it.
+explain SDLC used in your project
+have you worked with file upload download/ excel download
+how can you override UI library ka code and style, eg primeng
+default style positioning in a html/css document.
+how sticky works and its scenario
+hoisting/ closure/ var let behavior
+Scenario: i am making an api call and want to cache the response. how can i use closure here?
+cors do you know?
+steps you would take for migration from angular js to angular 19
+difference between angularjs and newer angular versions
+signals in angular
+how can i handle multiple api calls, if i want to call 4 apis when my component is loaded - what will i use?
+forkJoin vs combineLatest
+types of scopes in javascript
+how you achieve responsiveness?
