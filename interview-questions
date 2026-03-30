@@ -19,3 +19,5 @@ how can i handle multiple api calls, if i want to call 4 apis when my component 
 forkJoin vs combineLatest
 types of scopes in javascript
 how you achieve responsiveness?
+view encapsulation
+state management in angular
